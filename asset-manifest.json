@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.7b278186.css",
-    "main.js": "/static/js/main.a53534e6.js",
+    "main.js": "/static/js/main.2a1e423f.js",
     "static/js/787.ca6dfc71.chunk.js": "/static/js/787.ca6dfc71.chunk.js",
     "static/media/about.jpg": "/static/media/about.dab0158fbf2dd8b5fd4a.jpg",
     "static/media/LogoEsporTS.png": "/static/media/LogoEsporTS.2fa3770689f1306a43cd.png",
     "static/media/Logo_ETS_TypoBlanche_D_FR_1.png": "/static/media/Logo_ETS_TypoBlanche_D_FR_1.7abbb090639161c96764.png",
     "index.html": "/index.html",
     "main.7b278186.css.map": "/static/css/main.7b278186.css.map",
-    "main.a53534e6.js.map": "/static/js/main.a53534e6.js.map",
+    "main.2a1e423f.js.map": "/static/js/main.2a1e423f.js.map",
     "787.ca6dfc71.chunk.js.map": "/static/js/787.ca6dfc71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b278186.css",
-    "static/js/main.a53534e6.js"
+    "static/js/main.2a1e423f.js"
   ]
 }
