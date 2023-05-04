@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EsporTS-website/static/css/main.787cc109.css",
-    "main.js": "/EsporTS-website/static/js/main.9d4d0715.js",
-    "static/js/787.ca6dfc71.chunk.js": "/EsporTS-website/static/js/787.ca6dfc71.chunk.js",
-    "static/media/about.jpg": "/EsporTS-website/static/media/about.dab0158fbf2dd8b5fd4a.jpg",
-    "static/media/LogoEsporTS.png": "/EsporTS-website/static/media/LogoEsporTS.2fa3770689f1306a43cd.png",
-    "static/media/Logo_ETS_TypoBlanche_D_FR_1.png": "/EsporTS-website/static/media/Logo_ETS_TypoBlanche_D_FR_1.7abbb090639161c96764.png",
-    "index.html": "/EsporTS-website/index.html",
-    "main.787cc109.css.map": "/EsporTS-website/static/css/main.787cc109.css.map",
-    "main.9d4d0715.js.map": "/EsporTS-website/static/js/main.9d4d0715.js.map",
-    "787.ca6dfc71.chunk.js.map": "/EsporTS-website/static/js/787.ca6dfc71.chunk.js.map"
+    "main.css": "/static/css/main.7b278186.css",
+    "main.js": "/static/js/main.c8102573.js",
+    "static/js/787.ca6dfc71.chunk.js": "/static/js/787.ca6dfc71.chunk.js",
+    "static/media/about.jpg": "/static/media/about.dab0158fbf2dd8b5fd4a.jpg",
+    "static/media/LogoEsporTS.png": "/static/media/LogoEsporTS.2fa3770689f1306a43cd.png",
+    "static/media/Logo_ETS_TypoBlanche_D_FR_1.png": "/static/media/Logo_ETS_TypoBlanche_D_FR_1.7abbb090639161c96764.png",
+    "index.html": "/index.html",
+    "main.7b278186.css.map": "/static/css/main.7b278186.css.map",
+    "main.c8102573.js.map": "/static/js/main.c8102573.js.map",
+    "787.ca6dfc71.chunk.js.map": "/static/js/787.ca6dfc71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.787cc109.css",
-    "static/js/main.9d4d0715.js"
+    "static/css/main.7b278186.css",
+    "static/js/main.c8102573.js"
   ]
 }
